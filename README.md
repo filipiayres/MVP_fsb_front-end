@@ -10,7 +10,7 @@ Neste API limitei as funções básicas como nome,CPF e comorbidade. A data de c
 ---
 ## Como executar
 
-Basta fazer o download do projeto no meu GitHub e abrir o arquivo index.html no seu browser.
+Basta acessar o index.html no seu browser.
 ```
-MEU GITHUB ................
+index.html
 ```
