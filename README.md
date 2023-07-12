@@ -4,8 +4,8 @@ Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvime
 
 O objetivo aqui foi usar como base a terceira aula do curso para criar um API que fosse útil e versátil.
 Nesse projeto eu apresento um API que faz o cadastro de pacientes com comorbidades em uma região.
-Em primeiro momento banco de cadatro no futuro estaria ligado em rede com os hospitarias e centros de saúde da região, facilitando a identificação desse paciente, trazendo consigo as informações relacionadas a comorbidades pré-existentem. 
-Neste API limitei as funções básicas como nome,CPF e comorbidade. A data de cadastro é incluída automaticamente.
+A idéia seria que o banco de cadastro no futuro fosse ligada à rede com os hospitais e centros de saúde da região, facilitando a identificação desse paciente, trazendo consigo as informações relacionadas a comorbidades pré-existentem. 
+Neste API limitei as funções básicas como nome,CPF e comorbidade. A data de cadastro é incluída automaticamente e os comentários são inseridos apenas no back-end.
 
 ---
 ## Como executar
